@@ -1,0 +1,7 @@
+{
+  "name": "LeakLens — Cybersecurity & Personal Privacy Suite",
+  "description": "Defensive privacy app to audit digital exposure, detect and redact sensitive personal information from files, evaluate combination risks, and plan privacy improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
